@@ -1,0 +1,16 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>ejemploitemtemplate.txt</DefaultName>
+    <Name>EjemploItemTemplate</Name>
+    <Description>Ejemplo de un template con un archivo txt</Description>
+    <ProjectType>CSharp</ProjectType>
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <TemplateID>bca4d905-c477-453f-b6ca-877f55560f1d</TemplateID>
+    <SortOrder>1000</SortOrder>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+    <ProjectItem ReplaceParameters="true">ejemploitemtemplate.txt</ProjectItem>
+  </TemplateContent>
+</VSTemplate>

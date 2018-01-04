@@ -1,0 +1,11 @@
+﻿Para crear item template: https://blogs.endjin.com/2014/07/a-step-by-step-guide-to-developing-visual-studio-item-templates-using-sidewaffle/
+
+Ojo: SideWaffle Template Pack no esta disponible en VS 2017, hay que agregar los item templates a mano.
+
+Para parametrizar los items del template:
+https://docs.microsoft.com/es-es/visualstudio/ide/how-to-substitute-parameters-in-a-template
+https://msdn.microsoft.com/es-es/library/xwkxbww4.aspx
+https://msdn.microsoft.com/es-es/library/eehb4faa.aspx
+
+Más documentación:
+https://docs.microsoft.com/es-es/visualstudio/ide/how-to-create-item-templates
