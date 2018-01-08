@@ -7,5 +7,7 @@
     <ItemTemplate Path="ItemTemplates\MisTemplates\EjemploItemTemplate\Definitions\Web.csharp.vstemplate" Name="EjemploItemTemplate" Description="Ejemplo de un template con un archivo txt" ProjectType="Web" ProjectSubType="CSharp" />
   </ItemTemplates>
   <ProjectTemplates />
-  <Snippets />
+  <Snippets>
+    <Snippet Title="Controlador de Angular" Description="Template para agregar un angular controller via snippet" Shortcut="myngctrl" Path="Snippets\Javascript\MisSnippets\ng.controller.snippet" />
+  </Snippets>
 </TemplateReport>

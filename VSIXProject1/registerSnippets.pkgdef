@@ -1,0 +1,33 @@
+﻿// Javascript   
+[$RootKey$\Languages\CodeExpansions\JavaScript\Paths]   
+"MisSnippets"="$PackageFolder$\Snippets\JavaScript\MisSnippets"  
+
+//OJO: aqui se agregan otros snippets de otros tipos de proyecto, por ejemplo:
+
+// Visual Basic
+//[$RootKey$\Languages\CodeExpansions\Basic\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\VisualBasic\SideWaffle"
+
+// C++
+//[$RootKey$\Languages\CodeExpansions\C/C++\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\C++\SideWaffle"
+
+// C#
+//[$RootKey$\Languages\CodeExpansions\CSharp\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\CSharp\SideWaffle"
+
+// CSS
+//[$RootKey$\Languages\CodeExpansions\CSS\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\CSS\SideWaffle"
+
+// HTML
+//[$RootKey$\Languages\CodeExpansions\HTML\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\HTML\SideWaffle"
+
+// SQL
+//[$RootKey$\Languages\CodeExpansions\SQL_SSDT\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\SQL\SideWaffle"
+
+// XML
+//[$RootKey$\Languages\CodeExpansions\XML\Paths]
+//"SideWaffle"="$PackageFolder$\Snippets\XML\SideWaffle"

@@ -16,3 +16,12 @@ http://blog.majcica.com/2014/10/23/resetting-the-visual-studio-experimental-inst
 CreateExpInstance.exe /Reset /VsInstance=15.0_f5d22b0f /RootSuffix=Exp
 
 Ejecutar CreateExpInstance.exe sobre esta ruta: C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VSSDK\VisualStudioIntegration\Tools\Bin
+
+Para agregar Snippets revisar el registro (registerSnippets.pkgdef), no olvidar que en las propiedades del snippet debe estar configurado asi:
+Build Action: Content
+Copy To Output Directory: Always
+Include In VSIX: true
+
+Mas documentación: 
+https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets
+https://docs.microsoft.com/en-us/visualstudio/ide/how-to-distribute-code-snippets
