@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TemplateReport>
   <ItemTemplates>
+    <ItemTemplate Path="ItemTemplates\MisTemplates\ControladorJquery\Definitions\CSharp.vstemplate" Name="ControladorJquery" Description="Item template para controllador JQuery" ProjectType="CSharp" ProjectSubType="" />
     <ItemTemplate Path="ItemTemplates\MisTemplates\EjemploItemTemplate\Definitions\CSharp.vstemplate" Name="EjemploItemTemplate" Description="Ejemplo de un template con un archivo txt" ProjectType="CSharp" ProjectSubType="" />
+    <ItemTemplate Path="ItemTemplates\MisTemplates\ControladorJquery\Definitions\Web.csharp.vstemplate" Name="ControladorJquery" Description="Item template para controllador JQuery" ProjectType="Web" ProjectSubType="CSharp" />
     <ItemTemplate Path="ItemTemplates\MisTemplates\EjemploItemTemplate\Definitions\Web.csharp.vstemplate" Name="EjemploItemTemplate" Description="Ejemplo de un template con un archivo txt" ProjectType="Web" ProjectSubType="CSharp" />
   </ItemTemplates>
   <ProjectTemplates />

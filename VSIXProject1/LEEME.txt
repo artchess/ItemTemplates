@@ -9,3 +9,10 @@ https://msdn.microsoft.com/es-es/library/eehb4faa.aspx
 
 Más documentación:
 https://docs.microsoft.com/es-es/visualstudio/ide/how-to-create-item-templates
+
+
+Para resetear la instancia experimental:
+http://blog.majcica.com/2014/10/23/resetting-the-visual-studio-experimental-instance/ 
+CreateExpInstance.exe /Reset /VsInstance=15.0_f5d22b0f /RootSuffix=Exp
+
+Ejecutar CreateExpInstance.exe sobre esta ruta: C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VSSDK\VisualStudioIntegration\Tools\Bin

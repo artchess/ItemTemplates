@@ -58,6 +58,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="ItemTemplates\MisTemplates\ControladorJquery\Definitions\CSharp.vstemplate" />
+    <Content Include="ItemTemplates\MisTemplates\ControladorJquery\Definitions\Web.csharp.vstemplate" />
+    <Content Include="ItemTemplates\MisTemplates\ControladorJquery\icon.png" />
+    <Content Include="ItemTemplates\MisTemplates\ControladorJquery\temp-controller.js" />
     <Content Include="ItemTemplates\MisTemplates\EjemploItemTemplate\Definitions\CSharp.vstemplate" />
     <Content Include="ItemTemplates\MisTemplates\EjemploItemTemplate\Definitions\Web.csharp.vstemplate" />
     <Content Include="ItemTemplates\MisTemplates\EjemploItemTemplate\ejemploitemtemplate.txt" />

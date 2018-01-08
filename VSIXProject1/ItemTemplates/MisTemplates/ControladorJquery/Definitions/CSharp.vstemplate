@@ -1,0 +1,16 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
+  <TemplateData>
+    <DefaultName>temp-controller.js</DefaultName>
+    <Name>ControladorJquery</Name>
+    <Description>Item template para controllador JQuery</Description>
+    <ProjectType>CSharp</ProjectType>
+    <Icon>icon.png</Icon>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <TemplateID>bca4d905-c477-453f-b6ca-877f55560f1a</TemplateID>
+    <SortOrder>1000</SortOrder>
+  </TemplateData>
+  <TemplateContent>
+    <References />
+    <ProjectItem TargetFileName="$fileinputname$.js" ItemType="Content" ReplaceParameters="true">temp-controller.js</ProjectItem>
+  </TemplateContent>
+</VSTemplate>
